@@ -468,3 +468,8 @@ main {
     padding: 64px 0;
   }
 }
+/* FORCE NAV LOGO SIZE */
+.nav-logo img {
+  width: 70px !important;
+  height: auto !important;
+}
